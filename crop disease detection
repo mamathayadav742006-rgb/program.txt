@@ -1,0 +1,70 @@
+🟢 Slide 1: Title Slide
+- Title: Crop Disease Detection Using AI & IoT
+- Your name, institution, date
+
+🟢 Slide 2: Introduction
+- Importance of agriculture in India
+- Impact of crop diseases on yield and economy
+- Need for early detection
+
+🟢 Slide 3: Problem Statement
+- Challenges farmers face: late diagnosis, lack of access, manual inspection
+- Consequences: reduced productivity, increased costs
+
+
+🟢 Slide 4: Objectives
+- Automate disease detection
+- Improve accuracy and speed
+- Enable remote monitoring
+
+🟢 Slide 5: Technologies Used
+- AI/ML: Image classification, CNNs
+- IoT: Sensors for humidity, temperature
+- Mobile App/Web Interface: Farmer-friendly access
+
+🟢 Slide 6: Methodology
+- Data collection (leaf images, sensor data)
+- Preprocessing (noise removal, resizing)
+- Model training (CNN, transfer learning)
+- Deployment (mobile/web dashboard)
+
+🟢 Slide 7: Dataset
+- Source: PlantVillage, Kaggle, field data
+- Types of diseases: Powdery mildew, leaf rust, blight
+
+🟢 Slide 8: Model Architecture
+- CNN layers
+- Activation functions
+- Accuracy metrics
+
+🟢 Slide 9: Results
+- Accuracy, precision, recall
+- Confusion matrix
+- Sample predictions
+
+🟢 Slide 10: IoT Integration (Optional)
+- Sensor placement
+- Real-time alerts
+- Connectivity (LoRa, Wi-Fi)
+
+🟢 Slide 11: Benefits
+- Early detection
+- Cost-effective
+- Scalable for rural areas
+
+🟢 Slide 12: Limitations
+- Need for high-quality images
+- Internet dependency
+- Model generalization
+
+🟢 Slide 13: Future Scope
+- Multilingual app for farmers
+- Drone-based detection
+- Integration with government schemes
+
+🟢 Slide 14: Conclusion
+- Summary of impact
+- Call to action: tech for agriculture
+
+🟢 Slide 15: References
+- Cite datasets, papers, tools
